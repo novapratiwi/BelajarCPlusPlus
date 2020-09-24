@@ -18,4 +18,8 @@ while (konfirm == true){
     }
 }
 
+
+//hehehehe
+
 }//tag penutup utama
+
